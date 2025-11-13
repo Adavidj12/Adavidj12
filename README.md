@@ -1,16 +1,13 @@
-## Hi there 👋
+IT Support Enthusiast | Certified by Google & Cisco
 
-<!--
-**Adavidj12/Adavidj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turned my curiosity for how computers work into a skilled craft through self-directed learning and rigorous certification. My GitHub is a living portfolio of my journey into IT.
 
-Here are some ideas to get you started:
+Here, you'll find my home lab projects where I:
+- 💻 Install, configure, and troubleshoot Windows & Linux systems.
+- 🔐 Manage user access and permissions to practice security basics.
+- 🛡️ Implement backup and disaster recovery plans.
+- 📡 Simulate and troubleshoot network connectivity issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building my skills and looking for my first professional opportunity to provide exceptional technical support.
+
+Open to connecting and learning from the community!
