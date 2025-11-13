@@ -1,13 +1,19 @@
-IT Support Enthusiast | Certified by Google & Cisco
+### Hi there, I'm [Your Name] 👋
 
-I turned my curiosity for how computers work into a skilled craft through self-directed learning and rigorous certification. My GitHub is a living portfolio of my journey into IT.
+I'm an aspiring IT Support Specialist building a foundation in IT through hands-on projects and industry certifications.
 
-Here, you'll find my home lab projects where I:
-- 💻 Install, configure, and troubleshoot Windows & Linux systems.
-- 🔐 Manage user access and permissions to practice security basics.
-- 🛡️ Implement backup and disaster recovery plans.
-- 📡 Simulate and troubleshoot network connectivity issues.
+**What I'm focused on:**
+- 🛠️ **IT Support Labs:** Recreating real-world help desk scenarios, from hardware troubleshooting to OS deployments.
+- 🌐 **Networking Fundamentals:** Building and configuring networks with Cisco Packet Tracer.
+- ⚙️ **System Administration:** Practicing user management, Group Policy, and backup/recovery in a home lab environment.
+- 📝 **Documentation:** Writing clear guides and notes for my projects to solidify my learning.
 
-Currently building my skills and looking for my first professional opportunity to provide exceptional technical support.
+**My Credentials:**
+- ✅ Google IT Support Professional Certificate
+- ✅ Cisco Networking Academy: Introduction to Networks
 
-Open to connecting and learning from the community!
+**My Toolkit:** `Windows` `Linux` `Active Directory` `TCP/IP` `DNS` `DHCP` `Hardware Troubleshooting` `PowerShell` `Bash`
+
+I'm actively seeking an entry-level IT Support or Help Desk role where I can contribute my problem-solving skills and eagerness to learn.
+
+📫 **Let's connect:** linkedin.com/in/akpojotor-j-0024b8127
