@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm David 👋
 
 I'm an aspiring IT Support Specialist building a foundation in IT through hands-on projects and industry certifications.
 
