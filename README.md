@@ -20,7 +20,7 @@ Google-certified and basic Cisco-trained IT Support Specialist. Systems integrat
 
 | Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
-| **[Enterprise Windows Server 2022 Home Lab](https://github.com/Adavidj12/Basic-Employee-Onboarding-AD-RBAC-.git)** | Documentation & Screenshots | Built a fully virtualized enterprise sandbox: Domain Controller with DNS/DHCP, OU design, GPO deployment following Least Privilege (RBAC), and cross-platform admin via Windows and Linux CLI. | Windows Server 2022 · VirtualBox · Active Directory · GPOs · Home Lab | ✅ Completed |
+| **[Enterprise Windows Server 2022 Home Lab](https://github.com/Adavidj12/Basic-Employee-Onboarding-AD-RBAC-.git)** | Documentation, Screenshots, Video | Built a fully virtualized enterprise sandbox: Domain Controller with DNS/DHCP, OU design, GPO deployment following Least Privilege (RBAC), and cross-platform admin via Windows and Linux CLI. | Windows Server 2022 · VirtualBox · Active Directory · GPOs · Home Lab | ✅ Completed |
 
 ### ✅ Completed
 
@@ -30,7 +30,7 @@ Google-certified and basic Cisco-trained IT Support Specialist. Systems integrat
 
 | Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
-| **[macOS High Sierra on VirtualBox (Windows Host)](https://github.com/Adavidj12/macOS-High-Sierra-on-VirtualBox-Windows-Host-)** | Screenshots Only (8-step journey) | Documented a full troubleshooting build of a working macOS 10.13.6 VM on a Windows host: bypassed `End RandomSeed` kernel freezes via CPU-profile spoofing, resolved missing-disk errors with SATA controller config, disabled Hyper-V conflicts, and automated setup with VBoxManage scripts. | VirtualBox · VBoxManage CLI · macOS High Sierra · Disk Utility · Windows 11 | ✅ Completed |
+| **[macOS High Sierra on VirtualBox (Windows Host)](https://github.com/Adavidj12/macOS-High-Sierra-on-VirtualBox-Windows-Host-)** | Screenshots Only (8-step journey) | Documented a full troubleshooting build of a working macOS 10.13.6 VM on a Windows host: bypassed "End RandomSeed" kernel freezes via CPU-profile spoofing, resolved missing-disk errors with SATA controller config, disabled Hyper-V conflicts, and automated setup with VBoxManage scripts. | VirtualBox · VBoxManage CLI · macOS High Sierra · Disk Utility · Windows 11 | ✅ Completed |
 
 ### 🔨 In Progress
 
