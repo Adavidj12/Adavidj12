@@ -1,4 +1,4 @@
-# Hi there, I'm David Akpojotor 👋
+# Hi there, I'm David 👋
 
 ### Google-Certified IT Support Specialist & Systems Integrator
 Google-certified and basic Cisco-trained IT Support Specialist. Systems integrator with practical experience deploying virtualized enterprise networks, managing identity environments, and integrating cloud architectures. 
