@@ -20,7 +20,7 @@ Google-certified and basic Cisco-trained IT Support Specialist. Systems integrat
 
 | Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
-| **[Enterprise Windows Server 2022 Home Lab](https://github.com/Adavidj12/Basic-Employee-Onboarding-AD-RBAC-.git)** | Documentation, Screenshots, Video | Built a fully virtualized enterprise sandbox: Domain Controller with DNS/DHCP, OU design, GPO deployment following Least Privilege (RBAC), and cross-platform admin via Windows and Linux CLI. | Windows Server 2022 · VirtualBox · Active Directory · GPOs · Home Lab | ✅ Completed |
+| **[Enterprise Windows Server 2022 Home Lab](https://github.com/Adavidj12/Basic-Employee-Onboarding-AD-RBAC-.git)** | Documentation, Screenshots, Video | Built a fully virtualized enterprise sandbox: Domain Controller with DNS/DHCP, OU design, GPO deployment following Least Privilege (RBAC), and cross-platform admin via Windows. | Windows Server 2022 · VirtualBox · Active Directory · GPOs · Home Lab | ✅ Completed |
 
 ### ✅ Completed
 
