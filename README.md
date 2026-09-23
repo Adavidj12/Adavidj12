@@ -1,27 +1,45 @@
 # Hi there, I'm David 👋
 
 ### Google-Certified IT Support Specialist & Systems Integrator
-Google-certified and basic Cisco-trained IT Support Specialist. Systems integrator with practical experience deploying virtualized enterprise networks, managing identity environments, and integrating cloud architectures. 
+
+Google-certified and basic Cisco-trained IT Support Specialist. Systems integrator with practical experience deploying virtualized enterprise networks, managing identity environments, and integrating cloud architectures.
 
 ---
 
-## 🚀 Featured Technical Portfolios
+&gt; **Portfolio Note**
+&gt;
+&gt; The projects in this portfolio are designed to **simulate the real workflows of an IT Support Specialist and Systems Integrator working in enterprise environments**.
+&gt;
+&gt; Each project focuses on practical tasks such as deploying virtualized infrastructure, managing directory services, integrating cloud platforms, and enforcing security best practices — demonstrating how I design, build, and support systems end-to-end.
 
-### ☁️ Full-Stack Cloud Infrastructure & AI SaaS Platform
-*Systems Integration Case Study* • 🌐 **[Live Production Website](https://maskd-ai.vercel.app)** | 📂 **[View System Architecture Repository](https://github.com/Adavidj12)**
-*   **Architecture & Hosting:** Successfully managed and configured a high-availability multi-cloud deployment pipeline using **Vercel Edge Hosting** and **Render Web Services**.
-*   **AI API Integration:** Integrated the low-latency **Decart Lucy 2.1 API** framework to handle continuous client-side webcam stream transformations.
-*   **Identity Management:** Configured and deployed **Clerk Authentication** for secure multi-factor login routing, access tokens, and active user session states.
-*   **Database & Security:** Provisioned a cloud relational database via **Supabase**, enabling strict PostgreSQL Row-Level Security (RLS) policies.
-*   **Operational Resiliency:** Configured synthetic background network polling via **UptimeRobot** to mitigate serverless cold-starts and maintain a verified 100% database availability record.
-*   **Payment Infrastructure:** Implemented a decentralized **Blockonomics** cryptocurrency payment gateway, handling transaction verification and backend webhook idempotency locking.
+---
 
-### 🖥️ Enterprise Windows Server 2022 Home Lab
-*Self-Directed Infrastructure Project* 
-*   **Hypervisors:** Engineered a completely virtualized, multi-OS sandboxed enterprise testing environment using **Oracle VirtualBox**.
-*   **Directory Services:** Deployed **Windows Server 2022**, established a Centralized Domain Controller, and successfully configured active local DNS and DHCP server frameworks.
-*   **Access Control Configuration:** Managed simulated user lifecycle onboarding, constructed complex Organizational Units (OUs), and deployed Group Policy Objects (GPOs) following the security principle of **Least Privilege (RBAC)**.
-*   **Cross-Platform Systems:** Managed terminal environments using administrative shell commands across Windows and **Linux (Ubuntu/Fedora CLI)**.
+## 🚀 Featured Projects
+
+### 🆕 Latest
+
+| Project | Proof | Purpose | Stack | Status |
+| --- | --- | --- | --- | --- |
+| **[Full-Stack Cloud Infrastructure & AI SaaS Platform](repo-link)** | 🌐 Live Production Website | Architected a multi-cloud SaaS platform: Vercel/Render deployment pipeline, Decart Lucy 2.1 AI API integration, Clerk MFA authentication, Supabase with PostgreSQL RLS, UptimeRobot monitoring, and a Blockonomics crypto payment gateway with webhook idempotency. | Vercel · Render · Clerk · Supabase · PostgreSQL RLS · UptimeRobot · Blockonomics | ✅ Completed |
+
+### ✅ Completed
+
+| Project | Proof | Purpose | Stack | Status |
+| --- | --- | --- | --- | --- |
+| **[Enterprise Windows Server 2022 Home Lab](repo-link)** | Documentation & Screenshots | Built a fully virtualized enterprise sandbox: Domain Controller with DNS/DHCP, OU design, GPO deployment following Least Privilege (RBAC), and cross-platform admin via Windows and Linux CLI. | Windows Server 2022 · VirtualBox · Active Directory · GPOs · Ubuntu/Fedora CLI | ✅ Completed |
+
+### 🔨 In Progress
+
+| Project | Proof | Purpose | Stack | Status |
+| --- | --- | --- | --- | --- |
+| **[Project Name](repo-link)** | — | What you're building. | Tools | 🟡 In Progress |
+
+### 📋 Queued
+
+| Project | Purpose | Stack | Status |
+| --- | --- | --- | --- |
+| **Help Desk Ticketing System (osTicket)** | Deploy and configure a full ticketing lifecycle with SLAs to demonstrate service desk operations. | osTicket · Windows Server | ⏳ Queued |
+| **Network Security & Traffic Analysis** | Analyze traffic between Azure VMs using NSGs and Wireshark to diagnose network protocols. | Azure · Wireshark · NSGs | ⏳ Queued |
 
 ---
 
@@ -29,24 +47,33 @@ Google-certified and basic Cisco-trained IT Support Specialist. Systems integrat
 
 - **Operating Systems:** Windows 10/11, Windows Server 2022/2025, Linux CLI (Ubuntu/Fedora)
 - **Enterprise Platforms:** Active Directory (ADUC), Group Policy Management (GPOs), Identity & Access Management (Clerk)
-- **Cloud & Virtualization:** Oracle VirtualBox Hypervisor, Supabase (BaaS), Vercel, Render
-- **Infrastructure Tools:** UptimeRobot Monitoring, Webhook Configurations, Environment Variable Management
-- **Networking & Diagnostics:** TCP/IP, DNS, DHCP, Cisco Packet Tracer, Network Troubleshooting (Ping, TraceRoute, Ipconfig)
-- **Hardware & Helpdesk:** PC Diagnostics, Component Upgrades (SSD cloning, RAM provisioning), Operating System Deployment, Helpdesk Ticket Management
+- **Cloud & Virtualization:** Oracle VirtualBox, Supabase, Vercel, Render
+- **Infrastructure Tools:** UptimeRobot, Webhook Configurations, Environment Variable Management
+- **Networking & Diagnostics:** TCP/IP, DNS, DHCP, Cisco Packet Tracer, Network Troubleshooting
+- **Hardware & Helpdesk:** PC Diagnostics, Component Upgrades, OS Deployment, Ticket Management
 
 ---
 
-## 📜 Professional Credentials
+## 📜 Certifications
 
-- **Google IT Support Professional Certificate** – Coursera
-- **Introduction to Networking** – Cisco Networking Academy
-- **Introduction to Cybersecurity** – Cisco Networking Academy
+**Earned**
+
+- Google IT Support Professional Certificate – Coursera
+- Introduction to Networking – Cisco Networking Academy
+- Introduction to Cybersecurity – Cisco Networking Academy
+
+**In Progress**
+
+- *(e.g., CompTIA A+/Network+, Azure Fundamentals AZ-900)*
+
+**Queued**
+
+- *(badges or list future certifications here)*
 
 ---
 
 ## 📧 Connect with Me
 
-- 💼 **LinkedIn:** (http://linkedin.com/in/akpojotor-j-0024b8127))
+- 💼 **LinkedIn:** linkedin.com/in/akpojotor-j-0024b8127
 - ✉️ **Email:** davidajohn12@gmail.com
-- 📍 **Location:** Cape Town, South Africa *(Equipped with stable Fiber internet & mini-UPS power backups for seamless, uninterrupted remote operations)*
-
+- 📍 **Cape Town, South Africa** — stable fiber + mini-UPS backup for uninterrupted remote work
