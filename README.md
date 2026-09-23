@@ -20,13 +20,13 @@ Google-certified and basic Cisco-trained IT Support Specialist. Systems integrat
 
 | Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
-| **[Full-Stack Cloud Infrastructure & AI SaaS Platform](repo-link)** | 🌐 Live Production Website | Architected a multi-cloud SaaS platform: Vercel/Render deployment pipeline, Decart Lucy 2.1 AI API integration, Clerk MFA authentication, Supabase with PostgreSQL RLS, UptimeRobot monitoring, and a Blockonomics crypto payment gateway with webhook idempotency. | Vercel · Render · Clerk · Supabase · PostgreSQL RLS · UptimeRobot · Blockonomics | ✅ Completed |
+| **[Full-Stack Cloud Infrastructure & AI SaaS Platform](https://github.com/Adavidj12/maskd-ai-cloud-architecture.git)** | 🌐 Live Production Website | Architected a multi-cloud SaaS platform: Vercel/Render deployment pipeline, Decart Lucy 2.1 AI API integration, Clerk MFA authentication, Supabase with PostgreSQL RLS, UptimeRobot monitoring, and a Blockonomics crypto payment gateway with webhook idempotency. | Vercel · Render · Clerk · Supabase · PostgreSQL RLS · UptimeRobot · Blockonomics | ✅ Completed |
 
 ### ✅ Completed
 
 | Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
-| **[Enterprise Windows Server 2022 Home Lab](repo-link)** | Documentation & Screenshots | Built a fully virtualized enterprise sandbox: Domain Controller with DNS/DHCP, OU design, GPO deployment following Least Privilege (RBAC), and cross-platform admin via Windows and Linux CLI. | Windows Server 2022 · VirtualBox · Active Directory · GPOs · Ubuntu/Fedora CLI | ✅ Completed |
+| **[Enterprise Windows Server 2022 Home Lab](https://github.com/Adavidj12/Basic-Employee-Onboarding-AD-RBAC-.git)** | Documentation & Screenshots | Built a fully virtualized enterprise sandbox: Domain Controller with DNS/DHCP, OU design, GPO deployment following Least Privilege (RBAC), and cross-platform admin via Windows and Linux CLI. | Windows Server 2022 · VirtualBox · Active Directory · GPOs · Home Lab | ✅ Completed |
 
 ### 🔨 In Progress
 
